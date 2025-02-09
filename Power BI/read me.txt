@@ -1,0 +1,2 @@
+This Power BI report requires an SQL database connection. Since direct access may not be available, I have uploaded images of all dashboards for easy viewing.
+"dashboard-images.pdf"
